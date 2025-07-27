@@ -36,4 +36,4 @@ It aims to simulate real-world input-based attacks in a controlled environment â
 
 | Home Page Input | Scan Result Example |
 |-----------------|---------------------|
-| ![index](static/home_page.png) | ![result](static/result_page.png) |
+| ![index](home_page.png) | ![result](result_page.png) |
